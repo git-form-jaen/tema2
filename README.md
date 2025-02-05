@@ -18,7 +18,7 @@ Para seguir la formación, necesitarás:
 ## 🚀 ¿Cómo usar este repositorio?
 1. **Clona el repositorio:**
    ```sh
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   git clone https://github.com/git-form-jaen/tema2.git
    ```
 
 ## 📢 Contribuciones
